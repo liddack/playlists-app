@@ -9,8 +9,7 @@ O PlaylistsApp é um aplicativo capaz de:
 - Reproduzir áudio de prévia das faixas;
 - Criar playlists locais com as músicas pesquisadas. 
 
-Ele armazena seus dados em um banco de dados MySQL de um ambiente localhost, que pode ser criado por apps como o [Usbwebserver](www.usbwebserver.net/
-), o [Vertrigo](vertrigo.sourceforge.net/?lang=pt) e o [WampServer](www.wampserver.com/en/).
+Ele armazena seus dados em um banco de dados MySQL de um ambiente localhost, que pode ser criado por apps como o [Usbwebserver](http://www.usbwebserver.net/), o [Vertrigo](http://vertrigo.sourceforge.net/?lang=pt) e o [WampServer](http://www.wampserver.com/en/).
 
 ## Screenshots
 **Tela de login**
