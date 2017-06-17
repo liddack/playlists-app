@@ -1,7 +1,7 @@
 # PlaylistsApp v0.5
 PlaylistsApp, um aplicativo de pesquisa online de músicas e criação de playlists com suporte a múltiplos usuários, usando Java, Swing e MySQL.
 
-> É resultado de um trabalho da disciplina de Desenvolvimento de Sistemas do curso de Sistemas de Informação do Ceuls/ULBRA.
+> É resultado de um trabalho da disciplina de Desenvolvimento de Sistemas do curso de Sistemas de Informação do Ceuls/ULBRA, no 1º semestre de 2017.
 
 O PlaylistsApp é um aplicativo capaz de:
 - Pesquisar músicas através da API pública do Spotify (a Spotify Web API);
